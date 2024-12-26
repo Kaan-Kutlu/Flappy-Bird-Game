@@ -4,14 +4,12 @@ Bu, **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş basit bir 
 
 ## 🎮 Demo
 
-<video width="640"  controls>
-  <source src="./flappybirdvideo/flappybird.mp4" type="video/mp4">
-  Tarayıcınız video etiketini desteklemiyor.
-</video>
+
+<img src="./flappybirdgif/flappybird.gif" width="500" >
 
 
 
-![Flappy Bird Oynanışı](./flappybirdvideo/flappybird.mp4)
+![Flappy Bird Oynanışı](./flappybirdgif/flappybird.gif)
 
 
 
