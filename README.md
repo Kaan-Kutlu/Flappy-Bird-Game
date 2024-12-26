@@ -4,18 +4,7 @@ Bu, **HTML**, **CSS** ve **JavaScript** kullanılarak geliştirilmiş basit bir 
 
 ## 🎮 Demo
 
-<<<<<<< HEAD
-
-<img src="./flappybirdgif/flappybird.gif" width="500" >
-=======
-<img src="./flappybirdvideo/flappybird.mp4" width="500">
->>>>>>> origin/main
-
-
-
-![Flappy Bird Oynanışı](./flappybirdgif/flappybird.gif)
-
-
+<p align="center"> <img src="./flappybirdgif/flappybird.gif" width="700" > </p>
 
 ## 🚀 Özellikler
 
